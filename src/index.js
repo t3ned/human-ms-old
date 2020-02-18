@@ -44,7 +44,7 @@ const reGroups = /(\d*\.?\d*)(\D+)/;
  * @param {String} input
  * @return {Number}
  */
-function ms(input) {
+function ms(input = "") {
 	if (typeof input !== "string") throw new TypeError("Argument must be type `string`");
 
 	const matches = input.match(reMatches);
