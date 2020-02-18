@@ -1,6 +1,6 @@
 {
 	"name": "human-ms",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A better time coverterr.",
 	"main": "src/index.js",
 	"scripts": {
