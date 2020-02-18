@@ -1,0 +1,28 @@
+{
+	"name": "human-ms",
+	"version": "1.0.0",
+	"description": "A better time coverterr.",
+	"main": "src/test.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/T3NED/human-ms.git"
+	},
+	"author": "t3ned",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/T3NED/human-ms.gitissues"
+	},
+	"homepage": "https://github.com/T3NED/human-ms#readme",
+	"dependencies": {
+		"hmn-ms": "^0.1.0",
+		"parse-duration": "^0.1.2",
+		"pretty-ms": "^6.0.0",
+		"ratios-duration": "^0.1.2"
+	}
+}
